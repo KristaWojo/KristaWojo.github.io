@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Krista Wojcikiewicz | Engineering Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1 class="logo">Krista Wojcikiewicz</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Engineering Student & Designer</h2>
+    <p>I build mechanical systems, solve engineering problems, and design projects that make an impact.</p>
+    <a class="cta" href="#projects">View My Work</a>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm an engineering student passionate about mechanical design, automotive systems, and hands‑on project work.
+      I enjoy building, testing, and improving systems — from torque analysis to team‑based engineering challenges.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project-card">
+      <h3>Torq'N Tigers Engineering Team</h3>
+      <p>Designing and building competitive mechanical systems with a student engineering team.</p>
+    </div>
+
+    <div class="project-card">
+      <h3>Stress Transformation Toolkit</h3>
+      <p>A set of tools and visualizations for understanding stress transformation concepts.</p>
+    </div>
+
+    <div class="project-card">
+      <h3>Automotive Differential Model</h3>
+      <p>A mechanical model demonstrating differential behavior, lockers, and actuator systems.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: KristaW2006@icloud.com</p>
+    <p>GitHub: github.com/KristaWojo</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Krista Wojo</p>
+  </footer>
+</body>
+</html>
