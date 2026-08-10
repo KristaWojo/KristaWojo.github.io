@@ -30,7 +30,7 @@ nav a {
   background-image: url("Photos/Fresh-Comp-Bleachers.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom center;
 }
 
 #hero h2 {
