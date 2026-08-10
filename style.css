@@ -27,7 +27,10 @@ nav a {
 #hero {
   text-align: center;
   padding: 120px 20px;
-  background: #e8f0ff;
+  background-image: url("Photos/Fresh-Comp-Bleachers.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #hero h2 {
