@@ -27,10 +27,10 @@ nav a {
 #hero {
   text-align: center;
   padding: 120px 0px;
-  background-image: url("Photos/Fresh-Comp-Bleachers.jpeg");
+  background-image: url("Photos/Colorado.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom center;
+  background-position: bottom;
 }
 
 #hero h2 {
