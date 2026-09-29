@@ -6,6 +6,7 @@ body
 
 header 
   {display: flex;
+   margin: 0px;
   justify-content: space-between;
   padding: 20px;
   background: #e3ad98;
