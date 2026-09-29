@@ -30,8 +30,8 @@ nav a::after {
   bottom: -2px;
   width: 0%;
   height: 2px;
-  background: #66aaff;
-  transition: width 0.3s ease;
+  background: #000000;
+  transition: width 0.2s ease;
 }
 
 nav a:hover::after {
