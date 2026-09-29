@@ -2,14 +2,14 @@ body
   {margin: 8px;
   font-family: Times New Roman, JetBrains Mono;
   color: #222;
-  background: ##7ec8e3;}
+  background: ##7ec8e3;} 
 
 header 
   {display: flex;
    margin: 0px;
   justify-content: space-between;
   padding: 20px;
-  background: #e3ad98;
+  background: #e3ad98; % salmon header
   header, header a, header .logo {color: white;}}
 
 title-Name
@@ -34,7 +34,7 @@ nav a::after {
   bottom: -2px;
   width: 0%;
   height: 2px;
-  background: #000000;
+  background: #000000; %black background
   transition: width 0.2s ease;
 }
 
