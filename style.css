@@ -3,7 +3,7 @@ body
   color: #222;
   background: #86c4f7;} 
 
-header 
+navigation 
   {display: flex;
   margin: 0px;
   position: sticky;
@@ -13,9 +13,9 @@ header
   background: #e3ad98; /*salmon header*/
 
   header, header a, header .logo 
-   {color: white;}
+   {color: white;}}
 
-title-Name
+title-name
   {font-size: 1.5rem;
   font-weight: bold;}
    
