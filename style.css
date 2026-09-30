@@ -90,8 +90,7 @@ footer
   background: #fff;
   border-top: 1px solid #ddd;}
 
-.tnt-video {
-  display: flex;
+.tnt-video 
+  {display: flex;
   justify-content: center;
-  width: 100%;
-}
+  width: 200%;}
