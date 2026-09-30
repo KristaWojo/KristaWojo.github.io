@@ -1,7 +1,6 @@
 body 
   {font-family: Times New Roman;
   color: #222;
-  margin: 0px;
   background: #7ec8e3;} 
 
 header 
@@ -9,18 +8,16 @@ header
   margin: 0px;
   justify-content: space-between;
   padding: 20px;
-  background: #e3ad98; % salmon header
-  header, header a, header .logo {color: white;}}
+  background: #e3ad98; % salmon header}
+
+  header, header a, header .logo 
+   {color: white;}
 
 title-Name
   {font-size: 1.5rem;
   font-weight: bold;}
 
 nav a {
-      <a href="#about">About</a>
-      <a href="Projects.html">Projects</a>
-      <a href="Resume_2026_September.pdf">Resume</a>
-      <a href="Contact.html">Contact</a>
   color: white;
   text-decoration: none;
   position: relative;
