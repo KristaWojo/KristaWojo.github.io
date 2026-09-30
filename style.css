@@ -8,6 +8,7 @@ navigation
   margin: 0px;
   position: sticky;
   top:0
+  z-index:1000;
   justify-content: space-between;
   padding: 20px;
   background: #e3ad98; /*salmon header*/
