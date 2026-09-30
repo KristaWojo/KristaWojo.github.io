@@ -1,8 +1,8 @@
 body 
   {font-family: Times New Roman;
   color: #222;
-  margin: 0px
-  background: ##7ec8e3;} 
+  margin: 0px;
+  background: #7ec8e3;} 
 
 header 
   {display: flex;
@@ -24,8 +24,7 @@ nav a {
   color: white;
   text-decoration: none;
   position: relative;
-  margin-left: 20px;
-}
+  margin-left: 20px;}
 
 nav a::after {
   content: "";
@@ -35,12 +34,10 @@ nav a::after {
   width: 0%;
   height: 2px;
   background: #000000; %black background
-  transition: width 0.2s ease;
-}
+  transition: width 0.2s ease;}
 
 nav a:hover::after {
-  width: 100%;
-}
+  width: 100%;}
 
 #hero 
   {text-align: center;
