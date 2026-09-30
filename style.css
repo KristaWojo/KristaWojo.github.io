@@ -6,9 +6,11 @@ body
 header 
   {display: flex;
   margin: 0px;
+  position: sticky;
+  top:0
   justify-content: space-between;
   padding: 20px;
-  background: #e3ad98; % salmon header}
+  background: #e3ad98; /*salmon header*/
 
   header, header a, header .logo 
    {color: white;}
@@ -16,7 +18,7 @@ header
 title-Name
   {font-size: 1.5rem;
   font-weight: bold;}
-
+   
 nav a {
   color: #ffffff;
   text-decoration: none;
