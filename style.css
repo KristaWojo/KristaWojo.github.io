@@ -18,7 +18,7 @@ title-Name
   font-weight: bold;}
 
 nav a {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   position: relative;
   margin-left: 20px;}
@@ -30,7 +30,7 @@ nav a::after {
   bottom: -2px;
   width: 0%;
   height: 2px;
-  background: #000000; %black background
+  background: #000000; /*black background*/
   transition: width 0.2s ease;}
 
 nav a:hover::after {
