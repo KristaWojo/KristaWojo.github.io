@@ -14,7 +14,8 @@ navigation
   background: #e3ad98; /*salmon header*/
 
   header, header a, header .logo 
-   {color: white;}}
+   {color: white;}
+    margin:0px;}
 
 title-name
   {font-size: 1.5rem;
