@@ -2,6 +2,7 @@ body
   {font-family: Times New Roman;
   color: white; 
   background: #000;} /*black*/
+  margin: 0;
 
 navigation 
   {display: flex;
